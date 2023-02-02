@@ -13,6 +13,6 @@
   
   ---
   ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yj04-dev)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yj04-dev&layout=compact&langs_count=8)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YJ04-DEV&layout=compact&langs_count=8)
   
 </div>
